@@ -6,4 +6,4 @@ for a in range(101):
     elif a // 10  == 7:
          continue
     print(a)
-
+#ceshi 
